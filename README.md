@@ -1,8 +1,6 @@
 
 # Cartoon Character Recognition
 
-A brief description of what this project does and who it's for
-
 Project Usage Guide
 Running the Script
 Some issues were encountered when requesting image input interactively. Therefore, the recommended way to run the script is:
