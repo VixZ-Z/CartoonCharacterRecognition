@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 Project Usage Guide
 Running the Script
 Some issues were encountered when requesting image input interactively. Therefore, the recommended way to run the script is:
@@ -6,7 +11,6 @@ Place the image(s) inside the ./test/ folder in .jpg format.
 (Optional) You can also test directly from the TRAIN dataset using:
 
 matlab   imageFolder = fullfile('TRAIN', 'Bob esponja');
-```
 3. Execute only **Parts 0, 1, and 3** of the script.
 4. Press any key to move to the next image.
 
